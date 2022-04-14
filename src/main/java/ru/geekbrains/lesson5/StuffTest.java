@@ -12,6 +12,7 @@ public class StuffTest {
         for (Stuff stuffs: stuffsArray) {
             if (stuffs.getAge() > 40) {
                  stuffs.printInfo();
+
            }
         }
 
